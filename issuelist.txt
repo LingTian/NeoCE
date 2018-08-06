@@ -1,0 +1,12 @@
+About
+
+Project Genesis
+Project Genesis is a project which get innovations from blockchains. In blockchain we enjoy to design consensus, anonymous & decentralized projects. Base on this idea I start this project Genesis. It first start from a transparent smartcontract base on Nebulas. In the contract, every developer can use Adam (maybe the first man into Oasis XD) freely, Different developer may use Adam innovatively in any posistion. Such as in one game Adam is a RPG main character, while in the other Adam is the final Boss. It is much more easier for DApp developers to have consensus on 1 character than design a brand new game base on others smart contract. This is also meaningful beacause if 1 game contain Adam is hot, the fans may want to checkout other game contain Adam. Adam doesn't belong to anyone or any organization, I do not have any owner/priority in Genesis Contract. So, it is a real "blockchain" style project and we can make Adam present in millions games. It is really an excited project and I you enjoy it. If you are interested, please use Adam in your games and let the world see what we can do in blockchain! Genesis is the first consensus smart contract base on game characters which support ETH, NAS & EOS. This project attract many talented developers and hope more to join in us.
+
+Cell Evolution
+Cell Evolution is the first puzzle sandbox dapp base on Nebulas, each player act as a cell group. Players need to balance the<br> Adaptability, Reproductivity and Survivability in the game. When player finished the game, they can choose to do the DNA merging,<br> this function will upload the data into the whole ethnic group. This is not only a game, but also a read social experiment. If the<br> whole ethnic group have unbalance data, the whole world will destroy. Millions of the cells will decide the whole destiny of the world.<br> Welcome to Cell Evo, a game about cells and humanity;
+
+IssueList:
+1.Neo's version of Project Genesis
+2.CellEvolution modify
+3.Add in new Genesis & features in the CE.
