@@ -55,13 +55,13 @@ namespace NeoGenesis
                {
 
                  public string name ;
-                            public string hp ;
-                            public string mp ;
-                            public string str;
-                            public string inteligence;
-                            public string san;
-                            public string luck;
-                            public string charm;
+                 public string hp ;
+                 public string mp ;
+                 public string str;
+                 public string inteligence;
+                 public string san;
+                 public string luck;
+                 public string charm;
                }
 
     // Get Genesis Character
